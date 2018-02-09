@@ -18,6 +18,7 @@
 *.thumb
 *.sln.DotSettings.user
 *.meta
+*.sln.meta
 
 #Unity3D Generated File On Crash Reports
 sysinfo.txt
